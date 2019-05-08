@@ -6,9 +6,7 @@ Here's the [screen layout](https://imgur.com/j87DLey) I used.
 
 I took the liberty of recreating the instructor's code so you can follow along and make the same edits she does.  It helped me a lot to bang out the code and hit F5 on the browser to see the results.
 
-Here's the [index.html](https://pastebin.com/B9um8D9a) file.
-
-Here's the [style.css](https://pastebin.com/eunn00Qw) file.
+Feel free to grab the index.html and style.css files above.
 
 After doing this only once I was able to complete Flexbox Froggy on one attempt.  But I went through the video this way two more times and I'm finally *motivated* to use Flexbox rather than *dreading* the upcoming projects.
 
